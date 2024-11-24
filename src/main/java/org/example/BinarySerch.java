@@ -9,7 +9,6 @@ public class BinarySerch {
         }
 
         System.out.println(contains(array, 4));
-
     }
 
 

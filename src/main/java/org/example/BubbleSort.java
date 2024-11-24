@@ -5,7 +5,6 @@ import java.util.concurrent.ThreadLocalRandom;
 public class BubbleSort {
     public static void main(String[] args){
         int[] arrs = new int[100000];
-
         for (int i = 0; i < arrs.length; i++) {
             arrs[i] = ThreadLocalRandom.current().nextInt(1000);
         }

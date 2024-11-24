@@ -23,7 +23,6 @@ public class Main {
         for (int idxCurr = numbers.size() - 1; idxCurr >= 0; idxCurr--) {
 
             int max = numbers.get(0), idMax = 0;
-
             for (int j = 0; j <= idxCurr; j++) {
                 if (max < numbers.get(j)) {
                     max = numbers.get(j);

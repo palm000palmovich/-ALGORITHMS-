@@ -5,12 +5,20 @@ algorithms.
 ***This algorithm spends 5988 milliseconds to sort an array of 100,000 characters
 [Main.java]()
 
+
 2) BubbleSort
 ***This algorithm spends 11644 milliseconds to sort an array of 100,000 characters
 [BubbleSort.java]()
 
+
 3) **Binary serch** 
 [BinarySerch.java]()
+
+
+4) **Quick Sort**
+***This algorithm spends !11! milliseconds to sort an array of 100,000 characters
+   😅Other sorting methods just suck a huge fat bolt compared to this!😅
+[FastSort.java]()
 
 
 
